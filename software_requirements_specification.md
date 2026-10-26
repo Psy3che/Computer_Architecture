@@ -1,13 +1,12 @@
 # Software Requirements Specification
 ## For Online Ticket Flash Sale System
 
-Version 0.1  
-Prepared by Student  
-Advanced Software Architecture Patterns Course  
-2026-10-26
+Version 1.0 
+Prepared by TangtangYang  
+Univesity of debrecen
+2026-10-23
 
 ## Table of Contents
-<!-- TOC -->
 * [1. Introduction](#1-introduction)
     * [1.1 Purpose](#11-purpose)
     * [1.2 Document Conventions](#12-document-conventions)
